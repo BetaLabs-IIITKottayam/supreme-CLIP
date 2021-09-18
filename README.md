@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BetaLabs-IIITKottayam/supreme-CLIP">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <!--  <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Supreme CLIP</h3>
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 * Supreme CLIP is an app/api being built on top of [OpenAI's CLIP](https://openai.com/blog/clip/) model. 
 * Our goal is to enable image search, reverse image search and image captioning with three clicks.
@@ -123,7 +123,7 @@ Contributions are what make the open source community such an amazing place to l
 3. Create your Feature Branch
 4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
-7. Open a Pull Request and mention the issue which is being resolved
+6. Open a Pull Request and mention the issue which is being resolved
 
 
 
@@ -132,32 +132,12 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+Beta Labs - [@techclub_iiitk](https://twitter.com/techclub_iiitk) 
+Prasanna Devadiga- [@Prasanna280](https://twitter.com/Prasanna280)
+Aditya Menon- [@karynaur_](https://twitter.com/karynaur_)
 
 
 
