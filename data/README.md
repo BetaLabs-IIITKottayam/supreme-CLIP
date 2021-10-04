@@ -26,10 +26,10 @@
 ```$ tree
 supreme-CLIP
 ├── data
+│   ├── README.md
 │   ├── dataset_CLIP.pynb
-│   └── README.md
+│   └── embed_CLIP.pynb
 │   
-│  
 │  
 └── README.md
 
@@ -139,4 +139,6 @@ print("Program Executed in "+ str(elapsed))
 ```
 We'll get the number of valid and Unvalid URLs along with execution time :<img width="1439" alt="Screenshot 2021-10-02 at 11 55 16 AM" src="https://user-images.githubusercontent.com/77538183/135706090-18b5ec46-c3f3-4fff-9765-80bf6f86a538.png">
 
-
+# Download the data.json file from [here](https://drive.google.com/file/d/1EvRZNlS0d41ngcSv1wxLSJCdZV27wzf2/view?usp=sharing) or do the following:
+To generate the json file from the colab notebook embed_CLIP.ipynb
+run code sections from "Downloading the data.p file from Gdrive" heading and run all the code blocks under it sequentially, then u will find data.json file in your colab root directory, then download it manually.
