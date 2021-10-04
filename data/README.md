@@ -27,9 +27,9 @@
 supreme-CLIP
 ├── data
 │   ├── README.md
-│   ├── data.json
 │   ├── dataset_CLIP.pynb
 │   └── embed_CLIP.pynb
+│   
 │  
 └── README.md
 
