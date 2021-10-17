@@ -68,6 +68,8 @@
 
 * Supreme CLIP is an app/api being built on top of [OpenAI's CLIP](https://openai.com/blog/clip/) model. 
 * Our goal is to enable image search, reverse image search and image captioning with three clicks.
+* Achieves text-image search and image-captioning in 0.08s and 1.17s respectively
+
 
 ### Built With
 * [PyTorch](https://pytorch.org/)
